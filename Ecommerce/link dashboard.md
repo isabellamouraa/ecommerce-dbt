@@ -1,1 +1,0 @@
-Link Dashboard: file:///C:/Users/isabella.jesus/Documents/Ecommerce/index.html
